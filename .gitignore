@@ -1,6 +1,12 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,linux,visualstudiocode,python,dotenv,vim
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,linux,visualstudiocode,python,dotenv,vim
 
+### jinsik ignore
+requirements.txt
+mlvenv/
+code/
+code.tar
+
 ### .pem ###
 *.pem
 **/*.pem
@@ -189,6 +195,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+mlvenv/
 
 # Spyder project settings
 .spyderproject
